@@ -1,0 +1,14 @@
+C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\bin\Debug\net10.0\StructuralPatterns.exe
+C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\bin\Debug\net10.0\StructuralPatterns.deps.json
+C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\bin\Debug\net10.0\StructuralPatterns.runtimeconfig.json
+C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\bin\Debug\net10.0\StructuralPatterns.dll
+C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\bin\Debug\net10.0\StructuralPatterns.pdb
+C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\obj\Debug\net10.0\StructuralPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\obj\Debug\net10.0\StructuralPatterns.AssemblyInfoInputs.cache
+C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\obj\Debug\net10.0\StructuralPatterns.AssemblyInfo.cs
+C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\obj\Debug\net10.0\StructuralPatterns.csproj.CoreCompileInputs.cache
+C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\obj\Debug\net10.0\StructuralPatterns.dll
+C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\obj\Debug\net10.0\refint\StructuralPatterns.dll
+C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\obj\Debug\net10.0\StructuralPatterns.pdb
+C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\obj\Debug\net10.0\StructuralPatterns.genruntimeconfig.cache
+C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\obj\Debug\net10.0\ref\StructuralPatterns.dll
