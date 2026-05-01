@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|c:\\alma mater\\2 semester 2026\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\structuralpatterns\\structuralpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|c:\\alma mater\\2 semester 2026\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\structuralpatterns\\structuralpatterns\\compositetask\\stylecmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\compositetask\\stylecmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|c:\\alma mater\\2 semester 2026\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\structuralpatterns\\structuralpatterns\\compositetask\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\compositetask\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|c:\\alma mater\\2 semester 2026\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\structuralpatterns\\structuralpatterns\\compositetask\\cmdmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\compositetask\\cmdmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|c:\\alma mater\\2 semester 2026\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\structuralpatterns\\structuralpatterns\\compositetask\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\compositetask\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|c:\\alma mater\\2 semester 2026\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\structuralpatterns\\structuralpatterns\\compositetask\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\compositetask\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|c:\\alma mater\\2 semester 2026\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\structuralpatterns\\structuralpatterns\\compositetask\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|c:\\alma mater\\2 semester 2026\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\structuralpatterns\\structuralpatterns\\adaptertask\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\adaptertask\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|c:\\alma mater\\2 semester 2026\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\structuralpatterns\\structuralpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE48A3ED-9A63-8332-DAF5-435CE234E0B2}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,24 +58,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "CmdManager.cs",
+              "DocumentMoniker": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\CompositeTask\\CmdManager.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\CompositeTask\\CmdManager.cs",
+              "ToolTip": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\CompositeTask\\CmdManager.cs",
+              "RelativeToolTip": "StructuralPatterns\\CompositeTask\\CmdManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T21:08:59.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StyleCmd.cs",
+              "DocumentMoniker": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\CompositeTask\\StyleCmd.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\CompositeTask\\StyleCmd.cs",
+              "ToolTip": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\CompositeTask\\StyleCmd.cs",
+              "RelativeToolTip": "StructuralPatterns\\CompositeTask\\StyleCmd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T21:08:23.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\CompositeTask\\ICommand.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\CompositeTask\\ICommand.cs",
+              "ToolTip": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\CompositeTask\\ICommand.cs",
+              "RelativeToolTip": "StructuralPatterns\\CompositeTask\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T21:08:01.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\CompositeTask\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "StructuralPatterns\\CompositeTask\\LightElementNode.cs",
+              "ToolTip": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\CompositeTask\\LightElementNode.cs",
+              "RelativeToolTip": "StructuralPatterns\\CompositeTask\\LightElementNode.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA/wBkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T20:46:19.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LightTextNode.cs",
               "DocumentMoniker": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\CompositeTask\\LightTextNode.cs",
               "RelativeDocumentMoniker": "StructuralPatterns\\CompositeTask\\LightTextNode.cs",
               "ToolTip": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\CompositeTask\\LightTextNode.cs",
               "RelativeToolTip": "StructuralPatterns\\CompositeTask\\LightTextNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-01T20:32:28.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "LightNode.cs",
               "DocumentMoniker": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\CompositeTask\\LightNode.cs",
               "RelativeDocumentMoniker": "StructuralPatterns\\CompositeTask\\LightNode.cs",
@@ -72,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "TagFormatFactory.cs",
               "DocumentMoniker": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\FlyweightTask\\TagFormatFactory.cs",
               "RelativeDocumentMoniker": "StructuralPatterns\\FlyweightTask\\TagFormatFactory.cs",
@@ -85,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "InventoryDecorator.cs",
               "DocumentMoniker": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\DecoratorTask\\InventoryDecorator.cs",
               "RelativeDocumentMoniker": "StructuralPatterns\\DecoratorTask\\InventoryDecorator.cs",
@@ -97,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "FileWriter.cs",
               "DocumentMoniker": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\AdapterTask\\FileWriter.cs",
               "RelativeDocumentMoniker": "StructuralPatterns\\AdapterTask\\FileWriter.cs",
@@ -109,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\AdapterTask\\Logger.cs",
               "RelativeDocumentMoniker": "StructuralPatterns\\AdapterTask\\Logger.cs",
@@ -121,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "FileLoggerAdapter.cs",
               "DocumentMoniker": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\AdapterTask\\FileLoggerAdapter.cs",
               "RelativeDocumentMoniker": "StructuralPatterns\\AdapterTask\\FileLoggerAdapter.cs",
@@ -133,15 +201,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\Program.cs",
               "RelativeDocumentMoniker": "StructuralPatterns\\Program.cs",
-              "ToolTip": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\Program.cs",
-              "RelativeToolTip": "StructuralPatterns\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Alma mater\\2 semester 2026\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_3\\StructuralPatterns\\StructuralPatterns\\Program.cs*",
+              "RelativeToolTip": "StructuralPatterns\\Program.cs*",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAowKoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T21:14:50.971Z"
+              "WhenOpened": "2026-03-24T21:14:50.971Z",
+              "EditorCaption": ""
             }
           ]
         }

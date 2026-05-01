@@ -125,6 +125,9 @@ namespace StructuralPatterns
             Console.WriteLine();
         }
 
+
+
+
         public static void RunCompositeTask()
         {
             Console.WriteLine("Тест патерна Компонувальник\n");
@@ -157,9 +160,33 @@ namespace StructuralPatterns
             Console.WriteLine("OuterHTML головного елемента:");
             Console.WriteLine(div.OuterHTML);
 
-            Console.WriteLine("\nInnerHTML головного елемента:");
-            Console.WriteLine(div.InnerHTML);
-            Console.WriteLine();
+            //Console.WriteLine("\nТест патерна Ітератор");
+            //var listItems = div.Search(node => node is LightElementNode el && el.CssClasses.Contains("list-item"));
+            //foreach (var item in listItems)
+            //{
+            //    Console.WriteLine(item.OuterHTML);
+            //}
+
+            Console.WriteLine("\nТест патерна Команда");
+            var manager = new CmdManager();
+
+            var addTheme = new StyleCmd(div, "dark-theme");
+            manager.Compute(addTheme);
+            Console.WriteLine("Після додавання 'dark-theme':");
+            Console.WriteLine(div.OuterHTML);
+
+            var removeContainer = new StyleCmd(div, "container", false);
+            manager.Compute(removeContainer);
+            Console.WriteLine("\nПісля видалення 'container':");
+            Console.WriteLine(div.OuterHTML);
+
+            manager.Undo();
+            Console.WriteLine("\nПісля першого Undo (повернули 'container'):");
+            Console.WriteLine(div.OuterHTML);
+
+            manager.Undo();
+            Console.WriteLine("\nПісля другого Undo (прибрали 'dark-theme'):");
+            Console.WriteLine(div.OuterHTML);
         }
 
         public static void RunFlyweightTask()
