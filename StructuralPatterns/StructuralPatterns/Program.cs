@@ -185,7 +185,23 @@ public static void Task5()
         manager.Undo();
         Console.WriteLine("\nПісля другого Undo (прибрали 'dark-theme'):");
         Console.WriteLine(div.OuterHTML);
-    }
+
+
+
+            Console.WriteLine("\nТест патерна Стан");
+            var p = new LightElementNode("p", DisplayType.Block, ClosingType.Paired);
+
+            p.Add(new LightTextNode("Створено "));
+            Console.WriteLine("Editable: " + p.OuterHTML);
+
+            p.State = new LockedState();
+            p.Add(new LightTextNode("Блок")); 
+            Console.WriteLine("Locked:   " + p.OuterHTML);
+
+            p.State = new EditableState();
+            p.Add(new LightTextNode("Розблоковано"));
+            Console.WriteLine("Editable: " + p.OuterHTML);
+        }
 
     public static void RunFlyweightTask()
         {
