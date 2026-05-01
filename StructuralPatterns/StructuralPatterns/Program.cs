@@ -24,7 +24,7 @@ namespace StructuralPatterns
 
             RunProxyTask();
 
-            RunCompositeTask();
+            Task5();
 
             RunFlyweightTask();
 
@@ -125,61 +125,69 @@ namespace StructuralPatterns
             Console.WriteLine();
         }
 
-        public static void RunCompositeTask()
+
+public static void Task5()
+    {
+        Console.WriteLine("Тест патерна Компонувальник\n");
+
+        var div = new LightElementNode("div", DisplayType.Block, ClosingType.Paired);
+        div.CssClasses.Add("container");
+
+        var h1 = new LightElementNode("h1", DisplayType.Block, ClosingType.Paired);
+        h1.Add(new LightTextNode("Мої улюблені патерни"));
+        div.Add(h1);
+
+        var ul = new LightElementNode("ul", DisplayType.Block, ClosingType.Paired);
+        ul.CssClasses.Add("pattern-list");
+
+        string[] patterns = { "Adapter", "Decorator", "Bridge", "Proxy", "Composite" };
+        foreach (var pattern in patterns)
         {
-            Console.WriteLine("Тест патерна Компонувальник\n");
-
-            var div = new LightElementNode("div", DisplayType.Block, ClosingType.Paired);
-            div.CssClasses.Add("container");
-
-            var h1 = new LightElementNode("h1", DisplayType.Block, ClosingType.Paired);
-            h1.Add(new LightTextNode("Мої улюблені патерни"));
-            div.Add(h1);
-
-            var ul = new LightElementNode("ul", DisplayType.Block, ClosingType.Paired);
-            ul.CssClasses.Add("pattern-list");
-
-            string[] patterns = { "Adapter", "Decorator", "Bridge", "Proxy", "Composite" };
-            foreach (var pattern in patterns)
-            {
-                var li = new LightElementNode("li", DisplayType.Block, ClosingType.Paired);
-                li.CssClasses.Add("list-item");
-                li.Add(new LightTextNode(pattern));
-                ul.Add(li);
-            }
-
-            div.Add(ul);
-
-            var img = new LightElementNode("img", DisplayType.Inline, ClosingType.Single);
-            img.CssClasses.Add("logo");
-            div.Add(img);
-
-            Console.WriteLine("OuterHTML головного елемента:");
-            Console.WriteLine(div.OuterHTML);
-
-            Console.WriteLine("\nInnerHTML головного елемента:");
-            Console.WriteLine(div.InnerHTML);
-
-            Console.WriteLine("\nДемонстрація патерну Ітератор:");
-
-            Console.WriteLine("\nЕлементи з класом 'list-item':");
-            var listItems = div.Search(node => node is LightElementNode el && el.CssClasses.Contains("list-item"));
-            foreach (var item in listItems)
-            {
-                Console.WriteLine(item.OuterHTML);
-            }
-
-            Console.WriteLine("\nВсі текстові вузли:");
-            var textNodes = div.Search(node => node is LightTextNode);
-            foreach (var textNode in textNodes)
-            {
-                Console.WriteLine(textNode.OuterHTML);
-            }
-
-            Console.WriteLine();
+            var li = new LightElementNode("li", DisplayType.Block, ClosingType.Paired);
+            li.CssClasses.Add("list-item");
+            li.Add(new LightTextNode(pattern));
+            ul.Add(li);
         }
 
-        public static void RunFlyweightTask()
+        div.Add(ul);
+
+        var img = new LightElementNode("img", DisplayType.Inline, ClosingType.Single);
+        img.CssClasses.Add("logo");
+        div.Add(img);
+
+        Console.WriteLine("OuterHTML головного елемента:");
+        Console.WriteLine(div.OuterHTML);
+
+        Console.WriteLine("\nТест патерна Ітератор");
+        var listItems = div.Search(node => node is LightElementNode el && el.CssClasses.Contains("list-item"));
+        foreach (var item in listItems)
+        {
+            Console.WriteLine(item.OuterHTML);
+        }
+
+        Console.WriteLine("\nТест патерна Команда");
+        var manager = new CmdManager();
+
+        var addTheme = new StyleCmd(div, "dark-theme");
+        manager.Compute(addTheme);
+        Console.WriteLine("Після додавання 'dark-theme':");
+        Console.WriteLine(div.OuterHTML);
+
+        var removeContainer = new StyleCmd(div, "container", false);
+        manager.Compute(removeContainer);
+        Console.WriteLine("\nПісля видалення 'container':");
+        Console.WriteLine(div.OuterHTML);
+
+        manager.Undo();
+        Console.WriteLine("\nПісля першого Undo (повернули 'container'):");
+        Console.WriteLine(div.OuterHTML);
+
+        manager.Undo();
+        Console.WriteLine("\nПісля другого Undo (прибрали 'dark-theme'):");
+        Console.WriteLine(div.OuterHTML);
+    }
+
+    public static void RunFlyweightTask()
         {
             Console.WriteLine("Тест патерна Легковаговик\n");
 
