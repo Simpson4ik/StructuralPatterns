@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Text;
 
 namespace StructuralPatterns.CompositeTask;
@@ -16,16 +17,26 @@ public class LightElementNode : LightNode
 
     public LightElementNode(string tagName, DisplayType displayType, ClosingType closingType)
     {
-
         TagName = tagName;
         DisplayType = displayType;
         ClosingType = closingType;
         CssClasses = new List<string>();
         _children = new List<LightNode>();
     }
+    public INodeState State { get; set; } = new EditableState();
 
-    public void Add(LightNode node) => _children.Add(node);
-    public void Remove(LightNode node) => _children.Remove(node);
+    public  void Add(LightNode node) 
+    {
+        State.Add(this, node);
+    }
+
+    internal void InternalAdd(LightNode node)
+    {
+        _children.Add(node);
+    }
+
+    public  void Remove(LightNode node) => _children.Remove(node);
+
     public int ChildrenCount => _children.Count;
     public IReadOnlyList<LightNode> Children => _children;
 
