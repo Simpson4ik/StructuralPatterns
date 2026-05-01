@@ -159,6 +159,23 @@ namespace StructuralPatterns
 
             Console.WriteLine("\nInnerHTML головного елемента:");
             Console.WriteLine(div.InnerHTML);
+
+            Console.WriteLine("\nДемонстрація патерну Ітератор:");
+
+            Console.WriteLine("\nЕлементи з класом 'list-item':");
+            var listItems = div.Search(node => node is LightElementNode el && el.CssClasses.Contains("list-item"));
+            foreach (var item in listItems)
+            {
+                Console.WriteLine(item.OuterHTML);
+            }
+
+            Console.WriteLine("\nВсі текстові вузли:");
+            var textNodes = div.Search(node => node is LightTextNode);
+            foreach (var textNode in textNodes)
+            {
+                Console.WriteLine(textNode.OuterHTML);
+            }
+
             Console.WriteLine();
         }
 

@@ -16,6 +16,7 @@ public class LightElementNode : LightNode
 
     public LightElementNode(string tagName, DisplayType displayType, ClosingType closingType)
     {
+
         TagName = tagName;
         DisplayType = displayType;
         ClosingType = closingType;
@@ -26,6 +27,16 @@ public class LightElementNode : LightNode
     public void Add(LightNode node) => _children.Add(node);
     public void Remove(LightNode node) => _children.Remove(node);
     public int ChildrenCount => _children.Count;
+    public IReadOnlyList<LightNode> Children => _children;
+
+    public IEnumerable<LightNode> Search(Func<LightNode, bool> predicate)
+    {
+        using var iterator = new NodeIterator(this, predicate);
+        while (iterator.MoveNext())
+        {
+            yield return iterator.Current;
+        }
+    }
 
     public override string InnerHTML
     {
