@@ -12,3 +12,4 @@ C:\Alma mater\2 semester 2026\Конструювання програмного 
 C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\obj\Debug\net10.0\StructuralPatterns.pdb
 C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\obj\Debug\net10.0\StructuralPatterns.genruntimeconfig.cache
 C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\obj\Debug\net10.0\ref\StructuralPatterns.dll
+C:\Alma mater\2 semester 2026\Конструювання програмного забезпечення\lab_3\StructuralPatterns\StructuralPatterns\obj\Debug\net10.0\StructuralPatterns.sourcelink.json
