@@ -221,6 +221,14 @@ public static void Task5()
             Console.WriteLine("\n2. Використовуємо TimeTrackerRenderer:");
             HtmlRenderer timeRenderer = new TimeTrackerRenderer();
             string result2 = timeRenderer.Render(document);
+
+
+            Console.WriteLine("\nТест патерна Відвідувач");
+
+            var analyzer = new DomAnalyzerVisitor();
+            document.Accept(analyzer);
+
+            analyzer.PrintReport();
         }
 
     public static void RunFlyweightTask()

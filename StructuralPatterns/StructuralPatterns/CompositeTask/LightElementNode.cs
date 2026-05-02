@@ -62,6 +62,15 @@ public class LightElementNode : LightNode
         }
     }
 
+    public override void Accept(IVisitor visitor)
+    {
+        visitor.VisitElementNode(this);
+        foreach (var child in Children)
+        {
+            child.Accept(visitor);
+        }
+    }
+
     public override string OuterHTML
     {
         get
