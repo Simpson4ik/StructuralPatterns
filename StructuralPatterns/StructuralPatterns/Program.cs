@@ -201,6 +201,26 @@ public static void Task5()
             p.State = new EditableState();
             p.Add(new LightTextNode("Розблоковано"));
             Console.WriteLine("Editable: " + p.OuterHTML);
+
+
+            Console.WriteLine("\n Тест патерна Шаблонний метод");
+
+            var document = new LightElementNode("html", DisplayType.Block, ClosingType.Paired);
+            var body = new LightElementNode("body", DisplayType.Block, ClosingType.Paired);
+            var h2 = new LightElementNode("h2", DisplayType.Block, ClosingType.Paired);
+            h2.Add(new LightTextNode("Привіт, мене звати Саша!"));
+
+            body.Add(h2);
+            document.Add(body);
+
+            Console.WriteLine("\n1. Використовуємо LoggableRenderer:");
+            HtmlRenderer logRenderer = new LoggableRenderer();
+            string result1 = logRenderer.Render(document);
+            Console.WriteLine("Результат:\n" + result1);
+
+            Console.WriteLine("\n2. Використовуємо TimeTrackerRenderer:");
+            HtmlRenderer timeRenderer = new TimeTrackerRenderer();
+            string result2 = timeRenderer.Render(document);
         }
 
     public static void RunFlyweightTask()
